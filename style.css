@@ -6,9 +6,9 @@
 }
 .header{
     padding: 10%;
+    height: 90vh;
 }
 .card{
-    height: 100%;
     margin: 5%;
     padding: 3%;
     background-color: #FFF3F1;
@@ -16,7 +16,7 @@
     border-radius: 15px;
 }
 .card-img{
-    margin: -15%;
+    margin: -8%;
     padding: 0px 0px 0px 95%;
 }
 .card-text{
