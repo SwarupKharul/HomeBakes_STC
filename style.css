@@ -1,0 +1,74 @@
+*{
+    font-family: 'Nunito', sans-serif;
+}
+.bg-pink{
+    background-color: #FFF3F1;
+}
+.header{
+    padding: 10%;
+}
+.card{
+    height: 100%;
+    margin: 5%;
+    padding: 3%;
+    background-color: #FFF3F1;
+    border: 0ch;
+    border-radius: 15px;
+}
+.card-img{
+    margin: -15%;
+    padding: 0px 0px 0px 95%;
+}
+.card-text{
+    font-size: 3vh;
+}
+.content{
+    padding: 5% 10% 5% 10%;
+}
+li{
+    margin-bottom: 15px;
+}
+.tricks{
+    margin-top: 95px;
+    margin-left: 50px;
+}
+.ellipse1{
+    position: absolute;
+    margin: 50%;
+    z-index: +1;
+    transform: rotate(90deg);
+}
+.ellipse2{
+    position: absolute;
+    width: 10%;
+    height: 80%;
+    margin-top: -20%;
+    right: 0%;
+    transform: rotate(180deg);
+}
+div.row{
+    z-index: +2;
+}
+li.nav-item{
+    padding-inline-end: 20%;
+}
+@media only screen and (max-width: 700px) {
+    .col-sm{
+        margin-inline:10% !important;
+    }
+
+}
+footer{
+    color: white;
+    font-size: small;
+    background-color: #4B4B4B;
+}
+.footer{
+    padding: 4% 15% 4% 15%;
+}
+.col-sm-3{
+    padding-inline-end: 5%;
+}
+.social{
+    margin-inline-end: 10%;
+}
